@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+button {
+    height: auto;
+    width: 80px;
+    margin: 5px;
+    font-weight: bold;
+    font-size: 2em;
+    color: azure;
+    border: none;
+    box-shadow: 1px 1px 1px 0.5px rgb(75, 67, 67);
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+#plus {
+    background-color: darkgreen;
+}
+
+.minus {
+    background-color: red;
+}
